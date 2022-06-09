@@ -1,7 +1,9 @@
 <h1 align="center">Olá 👋, meu nome é Daniel Braga</h1>
 <h3 align="center">Sou um analista de dados apaixonado por resolução de problemas</h3>
 
-- 🔭 Atualmente, estou trabalhando com análise e visualização de dados no meu projeto [Análise de marketing para Adventure Works](https://shre.ink/jl2)
+- 🔭 Atualmente, estou trabalhando com análise e visualização de dados em Power BI e SQL: [Análise de marketing USA](https://shre.ink/jl2)
+
+- 👯 Talvez você se interesse por projetos com Python e html em dados (Cheque os projetos anteriores logo abaixo)
 
 - 🌱 Estou apredendo **Python e SQL**
 
