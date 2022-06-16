@@ -3,7 +3,7 @@
 
 - 🔭 Atualmente, estou trabalhando com análise e visualização de dados em Power BI e SQL: [Análise de marketing USA](https://shre.ink/jl2)
 
-- 👯 Talvez você se interesse por projetos com Python e html em dados (Cheque os projetos anteriores logo abaixo)
+- 👯 Talvez você se interesse por projetos com Python. Cheque meus projetos em mais detalhes nos meus Pins logo a seguir do texto.
 
 - 🌱 Estou apredendo **Python e SQL**
 
