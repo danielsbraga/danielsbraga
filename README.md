@@ -1,19 +1,19 @@
 <h1 align="center">Olá 👋, meu nome é Daniel Braga</h1>
 <h3 align="center">Sou um analista de dados apaixonado por resolução de problemas</h3>
 
-- 🔭 Atualmente, estou trabalhando com análise e visualização de dados em Power BI e SQL: [Análise de marketing USA](https://shre.ink/jl2)
+- 🔭 I am currently working with data analysis and visualization in Power BI and SQL: [Análise de marketing USA](https://shre.ink/jl2)
 
-- 👯 Talvez você se interesse por projetos com Python. Cheque meus projetos em mais detalhes nos meus Pins logo a seguir do texto.
+- 👯 You Might be interested in Python projects. Check out my projects in more detail on my Pins just below the text.
 
-- 🌱 Estou apredendo **Python e SQL**
+- 🌱 I'm developing in **Python e SQL**
 
-- 💬 Pergunte-me sobre **SQL, Excel, Python, SQL server, AWS, Power BI e Google Data Studio**
+- 💬 Ask me about **SQL, Excel (VBA), Python, SQL server, AWS, Power BI e Google Data Studio**
 
-- 📫 Você me acha através do e-mail **sindeauxdaniel@gmail.com**
+- 📫 You find me through **sindeauxdaniel@gmail.com**
 
-- 📄 Para saber mais sobre minhas experiências, acesse meu linkedin [www.linkedin.com/in/danielsibraga](www.linkedin.com/in/danielsibraga)
+- 📄 To learn more about my experiences, visit my [linkedin](https://www.linkedin.com/in/danielsibraga/?locale=en_US)
 
-- ⚡ Uma curiosidade **Sou Engenheiro de Produção e um dos co-fundadores da Veriza, Fintech de microcrédito para microempreendedores https://veriza.com.br/**
+- ⚡ A curiosity **I am a Production Engineer and one of the co-founders of Veriza, Fintech of microcredit for microentrepreneurs https://veriza.com.br/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
