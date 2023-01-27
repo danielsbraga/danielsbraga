@@ -5,7 +5,7 @@
 
 - 👯 You Might be interested in Python projects. Check out my projects in more detail on my Pins just below the text.
 
-- 🌱 I'm developing in **Python e SQL**
+- 🌱 I'm developing in **Python e Machine Learning**
 
 - 💬 Ask me about **SQL, Excel (VBA), Python, SQL server, AWS, Power BI e Google Data Studio**
 
