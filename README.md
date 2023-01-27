@@ -1,7 +1,7 @@
 <h1 align="center">HI 👋, my name is Daniel Braga</h1>
 <h3 align="center">I'm a data analyst with a passion for data storytelling</h3>
 
-- 🔭 I am currently working with data analysis and visualization in Power BI and SQL: [Análise de marketing USA](https://shre.ink/jl2)
+- 🔭 I am currently working with data analysis and visualization in Power BI and SQL: [Adventureworks Marketing Analysis](https://shre.ink/jl2)
 
 - 👯 You Might be interested in Python projects. Check out my projects in more detail on my Pins just below the text.
 
