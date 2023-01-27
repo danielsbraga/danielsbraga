@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **SQL, Excel (VBA), Python, SQL server, AWS, Power BI e Google Data Studio**
 
-- 📫 You find me through **sindeauxdaniel@gmail.com**
+- 📫 You find me through my email: **sindeauxdaniel@gmail.com**
 
 - 📄 To learn more about my experiences, visit my [linkedin](https://www.linkedin.com/in/danielsibraga/?locale=en_US)
 
