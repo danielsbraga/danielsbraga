@@ -1,5 +1,5 @@
-<h1 align="center">Olá 👋, meu nome é Daniel Braga</h1>
-<h3 align="center">Sou um analista de dados apaixonado por resolução de problemas</h3>
+<h1 align="center">HI 👋, my name is Daniel Braga</h1>
+<h3 align="center">I'm a data analyst with a passion for data storytelling</h3>
 
 - 🔭 I am currently working with data analysis and visualization in Power BI and SQL: [Análise de marketing USA](https://shre.ink/jl2)
 
