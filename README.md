@@ -1,13 +1,13 @@
 <h1 align="center">HI 👋, my name is Daniel Braga</h1>
 <h3 align="center">I'm a data analyst with a passion for data storytelling</h3>
 
-- 🔭 I am currently working with data analysis and visualization in Power BI and SQL: [Adventureworks Marketing Analysis](https://shre.ink/jl2)
+- 🔭 I am currently working with data science analysis project: [Airbnb-Analysis](https://github.com/danielsbraga/CRISP-DM-Airbnb-Analysis) (You can find the first draft using the link)
 
 - 👯 You Might be interested in Python projects. Check out my projects in more detail on my Pins just below the text.
 
 - 🌱 I'm developing in **Python e Machine Learning**
 
-- 💬 Ask me about **SQL, Excel (VBA), Python, SQL server, AWS, Power BI e Google Data Studio**
+- 💬 Ask me about **SQL, Excel (VBA), Python, PostgreSQL, AWS, Power BI e Google Data Studio**
 
 - 📫 You find me through my email: **sindeauxdaniel@gmail.com**
 
